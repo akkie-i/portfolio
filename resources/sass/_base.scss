@@ -1,0 +1,52 @@
+
+h1, h2, h3, p,h4, h5, ul, ol, li, dl, dt, dd, form, figure, form {
+  margin: 0px;
+  padding: 0px;
+  font-size: 100%;
+  font-weight: normal;
+}
+
+.clear {
+	clear:both;
+}
+
+a {
+  text-decoration: none;
+  &:hover {
+    opacity:0.8;
+  }
+}
+
+img {
+	max-width: 100%;
+	height:auto;
+	width:auto;
+	max-height:100%;
+}
+
+
+li	{
+	list-style: none;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+  font-family:'geo','-apple-system','BlinkMacSystemFont','han','Avenir','Helvetica Neue','Helvetica','Arial','Hiragino Sans','ヒラギノ角ゴシック',YuGothic,'Yu Gothic','メイリオ', Meiryo,'ＭＳ Ｐゴシック','MS PGothic','sans-serif';
+  background-color: #1A1A1A;
+  line-height: 0;
+}
+
+p {
+	color:#D1D1D1;
+}
+
+h2 {
+	color:#fff;
+}
+
+h3 {
+	color:#d1d1d1;
+}

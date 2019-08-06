@@ -1,0 +1,68 @@
+@charset "UTF-8";
+
+h1,
+h2,
+h3,
+p,
+h4,
+h5,
+ul,
+ol,
+li,
+dl,
+dt,
+dd,
+form,
+figure,
+form {
+  margin: 0px;
+  padding: 0px;
+  font-size: 100%;
+  font-weight: normal;
+}
+
+.clear {
+  clear: both;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  opacity: 0.8;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  width: auto;
+  max-height: 100%;
+}
+
+li {
+  list-style: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "geo", "-apple-system", "BlinkMacSystemFont", "han", "Avenir", "Helvetica Neue", "Helvetica", "Arial", "Hiragino Sans", "\30D2\30E9\30AE\30CE\89D2\30B4\30B7\30C3\30AF", YuGothic, "Yu Gothic", "\30E1\30A4\30EA\30AA", Meiryo, "\FF2D\FF33   \FF30\30B4\30B7\30C3\30AF", "MS PGothic", "sans-serif";
+  background-color: #1A1A1A;
+  line-height: 0;
+}
+
+p {
+  color: #D1D1D1;
+}
+
+h2 {
+  color: #fff;
+}
+
+h3 {
+  color: #d1d1d1;
+}
+
