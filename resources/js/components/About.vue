@@ -115,7 +115,7 @@
 
 <style lang='scss' scoped>
 .about {
-	/*background-image: url(../img/星砂の浜-1.jpg);*/
+	background-image: url(../../../public/images/slide-1.jpg);
 	background-position:center;
 	background-repeat: no-repeat;
 	background-size: cover;
